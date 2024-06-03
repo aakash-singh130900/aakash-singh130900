@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aakash-singh130900
+- 👋 Hi, I’m Aakash Singh
 - 👀 I’m interested in Python, GIS, and Modelling (the kind that doesn’t involve catwalks)
 - 🌱 I’m currently learning Crop Modelling (because plants need data too)
 - 💞️ I’m looking to collaborate on projects that combine code and creativity
