@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aakash Singh
-- 👀 I’m interested in Python, GIS, and Modelling (the kind that doesn’t involve catwalks)
-- 🌱 I’m currently learning Crop Modelling (because plants need data too)
+- 👀 I’m interested in Python, Generative AI, GIS, and Modelling (the kind that doesn’t involve catwalks)
+- 🌱 I’m currently learning Generative AI 
 - 💞️ I’m looking to collaborate on projects that combine code and creativity
 - 📫 How to reach me: in.linkedin.com/in/aakash-singh1309000
 - 😄 Pronouns: He/Him
